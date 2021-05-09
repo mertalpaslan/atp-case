@@ -1,0 +1,12 @@
+{
+  "name": "atp-case",
+  "displayName": "atp-case",
+  "expo": {
+    "name": "atp-case",
+    "slug": "atp-case",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
