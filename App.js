@@ -1,7 +1,6 @@
-import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { useState, useEffect } from 'react';
-import { FlatList, StyleSheet, Text, View, SafeAreaView } from 'react-native';
+import { FlatList, Text, View, SafeAreaView } from 'react-native';
 import { DataTable, Appbar} from 'react-native-paper'
 
 export default function App() {
